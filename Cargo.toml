@@ -1,6 +1,6 @@
 [package]
 name = "cryptose"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["VexPlayzGH"]
 edition = "2024"
 description = "A library for effortlessly encrypting and decrypting messages."
