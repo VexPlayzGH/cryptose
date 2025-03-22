@@ -1,0 +1,15 @@
+[package]
+name = "cryptose"
+version = "0.1.0"
+authors = ["VexPlayzGH"]
+edition = "2024"
+description = "A library for effortlessly encrypting and decrypting messages."
+license = "MIT"
+
+[dependencies]
+
+[profile.dev]
+opt-level = 1
+
+[profile.release]
+opt-level = 3
